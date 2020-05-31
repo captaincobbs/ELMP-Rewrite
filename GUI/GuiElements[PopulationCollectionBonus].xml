@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../Schemas/Amplitude.Unity.Gui.GuiElement.xsd" >
+  <!-- Bos -->
+  <GuiElement Name="PopulationCollectionBonusBos1" >
+    <Title>%PopulationCollectionBonusBos1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusBos2" >
+    <Title>%PopulationCollectionBonusBos2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusBos3" >
+    <Title>%PopulationCollectionBonusBos3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusBos3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Ceratan -->
+  <GuiElement Name="PopulationCollectionBonusCeratan1" >
+    <Title>%PopulationCollectionBonusCeratan1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusCeratan2" >
+    <Title>%PopulationCollectionBonusCeratan2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusCeratan3" >
+    <Title>%PopulationCollectionBonusCeratan3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusCeratan3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Delvers -->
+  <GuiElement Name="PopulationCollectionBonusDelvers1" >
+    <Title>%PopulationCollectionBonusDelvers1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusDelvers2" >
+    <Title>%PopulationCollectionBonusDelvers2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusDelvers3" >
+    <Title>%PopulationCollectionBonusDelvers3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusDelvers3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Dorgeshi -->
+  <GuiElement Name="PopulationCollectionBonusDorgeshi1" >
+    <Title>%PopulationCollectionBonusDorgeshi1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusDorgeshi2" >
+    <Title>%PopulationCollectionBonusDorgeshi2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusDorgeshi3" >
+    <Title>%PopulationCollectionBonusDorgeshi3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusDorgeshi3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Erycis -->
+  <GuiElement Name="PopulationCollectionBonusErycis1" >
+    <Title>%PopulationCollectionBonusErycis1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusErycis2" >
+    <Title>%PopulationCollectionBonusErycis2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusErycis3" >
+    <Title>%PopulationCollectionBonusErycis3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusErycis3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Eyeless Ones -->
+  <GuiElement Name="PopulationCollectionBonusEyeless1" >
+    <Title>%PopulationCollectionBonusEyeless1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusEyeless2" >
+    <Title>%PopulationCollectionBonusEyeless2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusEyeless3" >
+    <Title>%PopulationCollectionBonusEyeless3</Title>
+  </GuiElement>
+
+  <!-- Fomorian -->
+  <GuiElement Name="PopulationCollectionBonusFomorian1" >
+    <Title>%PopulationCollectionBonusFomorian1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusFomorian2" >
+    <Title>%PopulationCollectionBonusFomorian2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusFomorian3" >
+    <Title>%PopulationCollectionBonusFomorian3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusFomorian3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Gauran -->
+  <GuiElement Name="PopulationCollectionBonusGauran1" >
+    <Title>%PopulationCollectionBonusGauran1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusGauran2" >
+    <Title>%PopulationCollectionBonusGauran2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusGauran3" >
+    <Title>%PopulationCollectionBonusGauran3</Title>
+  </GuiElement>
+
+  <!-- Geldirus -->
+  <GuiElement Name="PopulationCollectionBonusGeldirus1" >
+    <Title>%PopulationCollectionBonusGeldirus1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusGeldirus2" >
+    <Title>%PopulationCollectionBonusGeldirus2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusGeldirus3" >
+    <Title>%PopulationCollectionBonusGeldirus3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusGeldirus3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Haunts -->
+  <GuiElement Name="PopulationCollectionBonusHaunts1" >
+    <Title>%PopulationCollectionBonusHaunts1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusHaunts2" >
+    <Title>%PopulationCollectionBonusHaunts2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusHaunts3" >
+    <Title>%PopulationCollectionBonusHaunts3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusHaunts3TooltipEffect</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Hurnas -->
+  <GuiElement Name="PopulationCollectionBonusHurnas1" >
+    <Title>%PopulationCollectionBonusHurnas1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusHurnas2" >
+    <Title>%PopulationCollectionBonusHurnas2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusHurnas3" >
+    <Title>%PopulationCollectionBonusHurnas3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusHurnas3TooltipEffect</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Jotus -->
+  <GuiElement Name="PopulationCollectionBonusJotus1" >
+    <Title>%PopulationCollectionBonusJotus1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusJotus2" >
+    <Title>%PopulationCollectionBonusJotus2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusJotus3" >
+    <Title>%PopulationCollectionBonusJotus3</Title>
+  </GuiElement>
+
+  <!-- Kazanji -->
+  <GuiElement Name="PopulationCollectionBonusKazanji1" >
+    <Title>%PopulationCollectionBonusKazanji1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusKazanji2" >
+    <Title>%PopulationCollectionBonusKazanji2</Title>
+  </GuiElement>
+  <ExtendedGuiElement Name="PopulationCollectionBonusKazanji3" >
+    <Title>%PopulationCollectionBonusKazanji3</Title>
+    <TooltipElement>
+      <EffectOverride>%PopulationCollectionBonusKazanji3EffectOverride</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+
+  <!-- Magtay -->
+  <GuiElement Name="PopulationCollectionBonusMagtay1" >
+    <Title>%PopulationCollectionBonusMagtay1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusMagtay2" >
+    <Title>%PopulationCollectionBonusMagtay2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusMagtay3" >
+    <Title>%PopulationCollectionBonusMagtay3</Title>
+  </GuiElement>
+
+  <!-- Nidya -->
+  <GuiElement Name="PopulationCollectionBonusNidya1" >
+    <Title>%PopulationCollectionBonusNidya1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusNidya2" >
+    <Title>%PopulationCollectionBonusNidya2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusNidya3" >
+    <Title>%PopulationCollectionBonusNidya3</Title>
+  </GuiElement>
+
+  <!-- Urces -->
+  <GuiElement Name="PopulationCollectionBonusUrces1" >
+    <Title>%PopulationCollectionBonusUrces1</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusUrces2" >
+    <Title>%PopulationCollectionBonusUrces2</Title>
+  </GuiElement>
+  <GuiElement Name="PopulationCollectionBonusUrces3" >
+    <Title>%PopulationCollectionBonusUrces3</Title>
+  </GuiElement>
+</Datatable>

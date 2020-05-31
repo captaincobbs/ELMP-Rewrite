@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" >
+
+  <!-- Bos -->
+  <LocalizationPair Name="%MinorFactionBosTitle" >Bos</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionBosDescription" >Centaurs with a knack for growing food, some nation from Auriga brought them along on their escape for their skill in agriculture.</LocalizationPair>
+  <LocalizationPair Name="%PopulationBosTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityBosTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityBosTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityBosTitle" >Bos</LocalizationPair>
+  <LocalizationPair Name="%AffinityBosDescription" >The Bos are centaurs. They are warriors, nomads, and relatively uneducated. They are large, shaggy beasts that are well-adapted to cold climates, and can be found anywhere across Auriga. As undedicated as they could have become a larger faction if they just knew it.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitBosUpkeepTitle" >Bosian Physique</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitBosUpkeepDescription" >Using Bos-Approved dieting methods, your citizens consume a fourth of the food they did before! Science is truly amazing.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitBosLossTitle" >Wartime Evacuation</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitBosLossDescription" >Using brand new and previously unthinkable methods suggest by the Bos, your a third of your citizenry will evacuate to an ultra-deep bunker.</LocalizationPair>
+
+  <!-- Ceratan -->
+  <LocalizationPair Name="%MinorFactionCeratanTitle" >Ceratan</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionCeratanDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationCeratanTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityCeratanTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityCeratanTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityCeratanTitle" >Ceratan</LocalizationPair>
+  <LocalizationPair Name="%AffinityCeratanDescription" >The Ceratan are arachnoid centaurs; giant spider ticks with human torsos. They are a subterranean people, so tend to have white hair and pale skin. They prefer feed on anything warm-blooded, but can survive on cold-blooded beasts or even other insectoid.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitCeratanDefenseTitle" >Ceratan Weaving</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitCeratanDefenseDescription" >Using Ceratan weaving structures, the metals that make up your ships gain a significant boost to defense.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitCeratanRegenTitle" >Regenerative Alloys</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitCeratanRegenDescription" >Using a substance based off of Ceratan webbing, ships can be repaired much more quickly when docked.</LocalizationPair>
+
+  <!-- Delvers -->
+  <LocalizationPair Name="%MinorFactionDelversTitle" >Delvers</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionDelversDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationDelversTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityDelversTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityDelversTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityDelversTitle" >Delvers</LocalizationPair>
+  <LocalizationPair Name="%AffinityDelversDescription" >The Delvers are humanoid cave-dwelling miners with a talent for finding wealth and a proficiency in breaking bone. Being trapped inside Auriga during an ancient Cataclysm, they evolved to be primitive, yet are talented craftsmen.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDelversIndustryTitle" >Enhanced Industrialization</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDelversIndustryDescription" >Using careful mining methods learned by the Delvers, you can greatly enhance the productivity of your mines even while your systems modernize.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDelversMinersTitle" >Core Mining</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDelversMinersDescription" >Comfortable with the heat of some of your most extreme planets, the Delvers offer to help improve your mining operations to get the most bang for your buck.</LocalizationPair>
+
+  <!-- Dorgeshi -->
+  <LocalizationPair Name="%MinorFactionDorgeshiTitle" >Dorgeshi</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionDorgeshiDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationDorgeshiTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityDorgeshiTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityDorgeshiTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityDorgeshiTitle" >Dorgeshi</LocalizationPair>
+  <LocalizationPair Name="%AffinityDorgeshiDescription" >The Dorgeshi are a splinter from the entrepeneuring Roving Clans, caring more about the art of war and the secrets of the great beasts.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDorgeshiUpkeepTitle" >Luxuriant Budget Cuts</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDorgeshiUpkeepDescription" >Using careful mining methods learned by the Dorgeshi, you can greatly enhance the productivity of your mines even while your systems modernize.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDorgeshiLuxuryTitle" >Efficient Development</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitDorgeshiLuxuryDescription" >Frugal and careful, the Dorgeshi can make more with less, leading to System Development being a much more efficient endeavor.</LocalizationPair>
+
+  <!-- Erycis -->
+  <LocalizationPair Name="%MinorFactionErycisTitle" >Erycis</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionErycisDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationErycisTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityErycisTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityErycisTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityErycisTitle" >Erycis</LocalizationPair>
+  <LocalizationPair Name="%AffinityErycisDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitErycisMovementTitle" >Propulsion Boosters</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitErycisMovementDescription" >Simply flying your ships at incomprehensible speeds is a great way to boost fleet movement.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitErycisSpeedTitle" >Reptilian Overdrive</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitErycisSpeedDescription" >The Erycis have a natural understanding on how to be agile, resulting in efficient ways to get the most out of your engines.</LocalizationPair>
+
+  <!-- Eyeless Ones -->
+  <LocalizationPair Name="%MinorFactionEyelessTitle" >Eyeless Ones</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionEyelessDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationEyelessTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityEyelessTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityEyelessTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityEyelessTitle" >Eyeless Ones</LocalizationPair>
+  <LocalizationPair Name="%AffinityEyelessDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitEyelessHeroTitle" >Prestige Academics</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitEyelessHeroDescription" >Education does not stop after graduation, so why should it for your heroes? New education programs educate your heroes to govern and command more effectively.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitEyelessUnitTitle" >On-The-Job Training</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitEyelessUnitDescription" >You learn most effectively under pressure, so why not make your ship crew learn on the job? Great idea!</LocalizationPair>
+
+  <!-- Fomorian -->
+  <LocalizationPair Name="%MinorFactionFomorianTitle" >Fomorian</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionFomorianDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationFomorianTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityFomorianTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityFomorianTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityFomorianTitle" >Fomorians</LocalizationPair>
+  <LocalizationPair Name="%AffinityFomorianDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianLuxuryTitle" >Endless Luxuries</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianLuxuryDescription" >With their sabatical on Auriga, the Fomorians have picked up how to use Luxuries the most effective way possible.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianTradeTitle" >Endless Profits</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianTradeDescription" >Guh! Why aren't profits scaleable, when they so easily could be? Having the economic AI of the Endless control your economy will promise nothing but infinite wealth!</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianDustTitle" >Endless Greed</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianDustDescription" >By lowering worker wages, you can make your state-owned corporations pump out slightly more profit!</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianEnergyTitle" >Endless Power</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitFomorianEnergyDescription" >Through years of experience on the Fortresses of Auriga, the Fomorian, now expert shipmaster, show their learned ways of building more effective spacecraft.</LocalizationPair>
+
+  <!-- Gauran -->
+  <LocalizationPair Name="%MinorFactionGauranTitle" >Gauran</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionGauranDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationGauranTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityGauranTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityGauranTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityGauranTitle" >Gauran</LocalizationPair>
+  <LocalizationPair Name="%AffinityGauranDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGauranHealthTitle" >Tenacious Aegis</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGauranHealthDescription" >By fitting your spacecraft with more armor in key-locations, you can vastly improve the surviveability of your spacecraft!</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGauranFoodTitle" >Modernized Husbandry</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGauranFoodDescription" >Developing solar systems need all the food they can get! With Gauran agricultural oversight, you can scale your food production with the population's needs!</LocalizationPair>
+
+  <!-- Geldirus -->
+  <LocalizationPair Name="%MinorFactionGeldirusTitle" >Geldirus</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionGeldirusDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationGeldirusTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityGeldirusTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityGeldirusTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityGeldirusTitle" >Geldirus</LocalizationPair>
+  <LocalizationPair Name="%AffinityGeldirusDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGeldirusFIDSITitle" >Frigid Workforce</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGeldirusFIDSIDescription" >The Geldirus, despite being of not particularly impressive sentience, can make for expert beasts of labor in the right environments. Their crude intelligence is perfect for manual labor.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGeldirusManpowerTitle" >Compliant Beasts</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitGeldirusManpowerDescription" >Ferocious and deadly, these beasts make great animals of war. Fitting common footsoldiers on sentient wolves the size of horses can clearly lead to no issues.</LocalizationPair>
+
+  <!-- Haunts -->
+  <LocalizationPair Name="%MinorFactionHauntsTitle" >Haunts</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionHauntsDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationHauntsTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityHauntsTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityHauntsTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityHauntsTitle" >Haunts</LocalizationPair>
+  <LocalizationPair Name="%AffinityHauntsDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHauntsMilitaryTitle" >Aggregating Pride</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHauntsMilitaryDescription" >With the technological growth of your Military comes the comfort of your people. New weapons bring less threats and more wealth.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHauntsEconomyTitle" >Monetary Prosperity</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHauntsEconomyDescription" >Your people particularly enjoy being wealthy, and as economic technology strives, so do they.</LocalizationPair>
+
+  <!-- Hurnas -->
+  <LocalizationPair Name="%MinorFactionHurnasTitle" >Hurnas</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionHurnasDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationHurnasTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityHurnasTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityHurnasTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityHurnasTitle" >Hurnas</LocalizationPair>
+  <LocalizationPair Name="%AffinityHurnasDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHurnasAccuracyTitle" >Brutish Prowess</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHurnasAccuracyDescription" >Proud and simple, these hunters make excellent gunners aboard your starships. With little trianing, they have a vastly higher accuracy ratio than any other race.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHurnasFoodTitle" >Skill of the Chieftain</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitHurnasFoodDescription" >A psychological remnant of their crude past, your people only need a powerful figure to rally behind to be effective.</LocalizationPair>
+
+  <!-- Jotus -->
+  <LocalizationPair Name="%MinorFactionJotusTitle" >Jotus</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionJotusDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationJotusTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityJotusTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityJotusTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityJotusTitle" >Jotus</LocalizationPair>
+  <LocalizationPair Name="%AffinityJotusDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitJotusVisionTitle" >Dedicated Sensors</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitJotusVisionDescription" >A tribal discipline of caution, now implemented into your starships. Having enhanced scouting sensors is crucial for information during war.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitJotusAccuracyTitle" >Homing Weaponry</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitJotusAccuracyDescription" >Dissatisfied with the accuracy of you "modern" weaponry, Jotus engineers offer to teach you how to make your ship gunshots arc towards the target, regardless of the gunners skill.</LocalizationPair>
+
+  <!-- Kazanji -->
+  <LocalizationPair Name="%MinorFactionKazanjiTitle" >Kazanji</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionKazanjiDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationKazanjiTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityKazanjiTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityKazanjiTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityKazanjiTitle" >Kazanji</LocalizationPair>
+  <LocalizationPair Name="%AffinityKazanjiDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitKazanjiWarTitle" >Hellish Negotiation</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitKazanjiWarDescription" >You can't say no to a demon in the middle of a negotiation, or at least, that's the concept. Results may vary in practice.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitKazanjiInfluenceTitle" >Collective Comprehension</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitKazanjiInfluenceDescription" >As the secrets and anomalous parts of the galaxy are revealed to you, the Kazanji offer to research their purpose in a greater empire-wide level.</LocalizationPair>
+
+  <!-- Magtay -->
+  <LocalizationPair Name="%MinorFactionMagtayTitle" >Magtay</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionMagtayDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationMagtayTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityMagtayTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityMagtayTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityMagtayTitle" >Magtay</LocalizationPair>
+  <LocalizationPair Name="%AffinityMagtayDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitMagtayManpowerTitle" >Expanded Garrison</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitMagtayManpowerDescription" >Every citizen can give a son, daughter, or animal to the defense effort! A draft can be implemented permanently as a part of imperial "culture".</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitMagtayHappinessTitle" >Buzzy Bees</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitMagtayHappinessDescription" >Your people are more than happy to work on any planet if it means strengthening your empire! A minimum level of happiness can be "enforced" no matter the situation!</LocalizationPair>
+
+  <!-- Nidya -->
+  <LocalizationPair Name="%MinorFactionNidyaTitle" >Nidya</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionNidyaDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationNidyaTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityNidyaTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityNidyaTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityNidyaTitle" >Nidya</LocalizationPair>
+  <LocalizationPair Name="%AffinityNidyaDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitNidyaDodgeTitle" >Trepidation Thrusters</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitNidyaDodgeDescription" >With a mastery of aerial combat few can comprehend, the Nidya engineers have many possible suggestions for your fleet, giving them an increased agility at no additional production cost.</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitNidyaAirpowerTitle" >Aerial Automation</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitNidyaAirpowerDescription" >Not every aircraft needs to be manned! Using Nidya as training for pilot AI, your ground force can greatly reduce the amount of manpower needed for ships.</LocalizationPair>
+
+  <!-- Urces -->
+  <LocalizationPair Name="%MinorFactionUrcesTitle" >Urces</LocalizationPair>
+  <LocalizationPair Name="%MinorFactionUrcesDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%PopulationUrcesTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationEmpireAffinityUrcesTitle" ></LocalizationPair>
+  <LocalizationPair Name="%ClassPopulationStarSystemAffinityUrcesTitle" >Systems with </LocalizationPair>
+  <LocalizationPair Name="%AffinityUrcesTitle" >Urces</LocalizationPair>
+  <LocalizationPair Name="%AffinityUrcesDescription" >TBI</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitUrcesIndustryTitle" >Garrison Manforce</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitUrcesIndustryDescription" >Soldiers can be useful in more than just fighting, under the direction of the Urces they can be used as labor too!</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitUrcesFoodTitle" >Crop Rotation</LocalizationPair>
+  <LocalizationPair Name="%FactionTraitUrcesFoodDescription" >Farmers are given access to modern technologies under the empathetic suggestion of the Urces, allowing them to produce more based off of the available machinery.</LocalizationPair>
+</Datatable>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../Schemas/Amplitude.Unity.Gui.GuiElement.xsd" >
+  <!-- Bos -->
+  <GuiElement Name="MinorFactionBos" >
+    <Title>%MinorFactionBosTitle</Title>
+    <Description>%MinorFactionBosDescription</Description>
+  </GuiElement>
+
+  <!-- Ceratan -->
+  <GuiElement Name="MinorFactionCeratan" >
+    <Title>%MinorFactionCeratanTitle</Title>
+    <Description>%MinorFactionCeratanDescription</Description>
+  </GuiElement>
+
+  <!-- Delvers -->
+  <GuiElement Name="MinorFactionDelvers" >
+    <Title>%MinorFactionDelversTitle</Title>
+    <Description>%MinorFactionDelversDescription</Description>
+  </GuiElement>
+
+  <!-- Dorgeshi -->
+  <GuiElement Name="MinorFactionDorgeshi" >
+    <Title>%MinorFactionDorgeshiTitle</Title>
+    <Description>%MinorFactionDorgeshiDescription</Description>
+  </GuiElement>
+
+  <!-- Erycis -->
+  <GuiElement Name="MinorFactionErycis" >
+    <Title>%MinorFactionErycisTitle</Title>
+    <Description>%MinorFactionErycisDescription</Description>
+  </GuiElement>
+
+  <!-- Eyeless Ones -->
+  <GuiElement Name="MinorFactionEyeless" >
+    <Title>%MinorFactionEyelessTitle</Title>
+    <Description>%MinorFactionEyelessDescription</Description>
+  </GuiElement>
+
+  <!-- Fomorian -->
+  <GuiElement Name="MinorFactionFomorian" >
+    <Title>%MinorFactionFomorianTitle</Title>
+    <Description>%MinorFactionFomorianDescription</Description>
+  </GuiElement>
+
+  <!-- Gauran -->
+  <GuiElement Name="MinorFactionGauran" >
+    <Title>%MinorFactionGauranTitle</Title>
+    <Description>%MinorFactionGauranDescription</Description>
+  </GuiElement>
+
+  <!-- Geldirus -->
+  <GuiElement Name="MinorFactionGeldirus" >
+    <Title>%MinorFactionGeldirusTitle</Title>
+    <Description>%MinorFactionGeldirusDescription</Description>
+  </GuiElement>
+
+  <!-- Haunts -->
+  <GuiElement Name="MinorFactionHaunts" >
+    <Title>%MinorFactionHauntsTitle</Title>
+    <Description>%MinorFactionHauntsDescription</Description>
+  </GuiElement>
+
+  <!-- Hurnas -->
+  <GuiElement Name="MinorFactionHurnas" >
+    <Title>%MinorFactionHurnasTitle</Title>
+    <Description>%MinorFactionHurnasDescription</Description>
+  </GuiElement>
+
+  <!-- Jotus -->
+  <GuiElement Name="MinorFactionJotus" >
+    <Title>%MinorFactionJotusTitle</Title>
+    <Description>%MinorFactionJotusDescription</Description>
+  </GuiElement>
+
+  <!-- Kazanji -->
+  <GuiElement Name="MinorFactionKazanji" >
+    <Title>%MinorFactionKazanjiTitle</Title>
+    <Description>%MinorFactionKazanjiDescription</Description>
+  </GuiElement>
+
+  <!-- Magtay -->
+  <GuiElement Name="MinorFactionMagtay" >
+    <Title>%MinorFactionMagtayTitle</Title>
+    <Description>%MinorFactionMagtayDescription</Description>
+  </GuiElement>
+
+  <!-- Nidya -->
+  <GuiElement Name="MinorFactionNidya" >
+    <Title>%MinorFactionNidyaTitle</Title>
+    <Description>%MinorFactionNidyaDescription</Description>
+  </GuiElement>
+
+  <!-- Urces -->
+  <GuiElement Name="MinorFactionUrces" >
+    <Title>%MinorFactionUrcesTitle</Title>
+    <Description>%MinorFactionUrcesDescription</Description>
+  </GuiElement>
+</Datatable>

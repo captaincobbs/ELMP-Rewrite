@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../Schemas/Amplitude.Unity.Gui.GuiElement.xsd" >
+  <!-- SymbolStrings were extracted using FontForge -->
+  <!-- Bos -->
+  <AffinityGuiElement Name="AffinityMappingBos" > <Title>%AffinityGameplayBosTitle</Title>
+    <Description>%AffinityGameplayBosDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/BosSmall.png" />
+      <Icon Size="Medium" Path="Gui/BosMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/BosLarge.png" />
+      <Icon Size="Mood" Path="Gui/BosMood.png" />
+    </Icons>
+    <SymbolString></SymbolString> <!-- [X] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Ceratan -->
+  <AffinityGuiElement Name="AffinityMappingCeratan" >
+    <Title>%AffinityGameplayCeratanTitle</Title>
+    <Description>%AffinityGameplayCeratanDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/CeratanSmall.png" />
+      <Icon Size="Medium" Path="Gui/CeratanMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/CeratanLarge.png" />
+      <Icon Size="Mood" Path="Gui/CeratanMood.png" />
+    </Icons>
+    <SymbolString></SymbolString> <!-- [S] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Delvers -->
+  <AffinityGuiElement Name="AffinityMappingDelvers" >
+    <Title>%AffinityGameplayDelversTitle</Title>
+    <Description>%AffinityGameplayDelversDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/DelversSmall.png" />
+      <Icon Size="Medium" Path="Gui/DelversMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/DelversLarge.png" />
+      <Icon Size="Mood" Path="Gui/DelversMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [Q] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Dorgeshi -->
+  <AffinityGuiElement Name="AffinityMappingDorgeshi" >
+    <Title>%AffinityGameplayDorgeshiTitle</Title>
+    <Description>%AffinityGameplayDorgeshiDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/DorgeshiSmall.png" />
+      <Icon Size="Medium" Path="Gui/DorgeshiMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/DorgeshiLarge.png" />
+      <Icon Size="Mood" Path="Gui/DorgeshiMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [V] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Erycis -->
+  <AffinityGuiElement Name="AffinityMappingErycis" >
+    <Title>%AffinityGameplayErycisTitle</Title>
+    <Description>%AffinityGameplayErycisDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/ErycisSmall.png" />
+      <Icon Size="Medium" Path="Gui/ErycisMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/ErycisLarge.png" />
+      <Icon Size="Mood" Path="Gui/ErycisMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [C] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Eyeless Ones -->
+  <AffinityGuiElement Name="AffinityMappingEyeless" >
+    <Title>%AffinityGameplayEyelessTitle</Title>
+    <Description>%AffinityGameplayEyelessDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/EyelessSmall.png" />
+      <Icon Size="Medium" Path="Gui/EyelessMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/EyelessLarge.png" />
+      <Icon Size="Mood" Path="Gui/EyelessMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- Take an [L] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Fomorian -->
+  <AffinityGuiElement Name="AffinityMappingFomorian" >
+    <Title>%AffinityGameplayFomorianTitle</Title>
+    <Description>%AffinityGameplayFomorianDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/FomorianSmall.png" />
+      <Icon Size="Medium" Path="Gui/FomorianMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/FomorianLarge.png" />
+      <Icon Size="Mood" Path="Gui/FomorianMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [N] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Gauran -->
+  <AffinityGuiElement Name="AffinityMappingGauran" >
+    <Title>%AffinityGameplayGauranTitle</Title>
+    <Description>%AffinityGameplayGauranDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/GauranSmall.png" />
+      <Icon Size="Medium" Path="Gui/GauranMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/GauranLarge.png" />
+      <Icon Size="Mood" Path="Gui/GauranMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [Z] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Geldirus -->
+  <AffinityGuiElement Name="AffinityMappingGeldirus" >
+    <Title>%AffinityGameplayGeldirusTitle</Title>
+    <Description>%AffinityGameplayGeldirusDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/GeldirusSmall.png" />
+      <Icon Size="Medium" Path="Gui/GeldirusMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/GeldirusLarge.png" />
+      <Icon Size="Mood" Path="Gui/GeldirusMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [O] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Haunts -->
+  <AffinityGuiElement Name="AffinityMappingHaunts" >
+    <Title>%AffinityGameplayHauntsTitle</Title>
+    <Description>%AffinityGameplayHauntsDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/HauntsSmall.png" />
+      <Icon Size="Medium" Path="Gui/HauntsMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/HauntsLarge.png" />
+      <Icon Size="Mood" Path="Gui/HauntsMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [Y] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Hurnas -->
+  <AffinityGuiElement Name="AffinityMappingHurnas" >
+    <Title>%AffinityGameplayHurnasTitle</Title>
+    <Description>%AffinityGameplayHurnasDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/HurnasSmall.png" />
+      <Icon Size="Medium" Path="Gui/HurnasMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/HurnasLarge.png" />
+      <Icon Size="Mood" Path="Gui/HurnasMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [D] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Jotus -->
+  <AffinityGuiElement Name="AffinityMappingJotus" >
+    <Title>%AffinityGameplayJotusTitle</Title>
+    <Description>%AffinityGameplayJotusDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/JotusSmall.png" />
+      <Icon Size="Medium" Path="Gui/JotusMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/JotusLarge.png" />
+      <Icon Size="Mood" Path="Gui/JotusMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [G] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Kazanji -->
+  <AffinityGuiElement Name="AffinityMappingKazanji" >
+    <Title>%AffinityGameplayKazanjiTitle</Title>
+    <Description>%AffinityGameplayKazanjiDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/KazanjiSmall.png" />
+      <Icon Size="Medium" Path="Gui/KazanjiMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/KazanjiLarge.png" />
+      <Icon Size="Mood" Path="Gui/KazanjiMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [A] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Magtay -->
+  <AffinityGuiElement Name="AffinityMappingMagtay" >
+    <Title>%AffinityGameplayMagtayTitle</Title>
+    <Description>%AffinityGameplayMagtayDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/MagtaySmall.png" />
+      <Icon Size="Medium" Path="Gui/MagtayMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/MagtayLarge.png" />
+      <Icon Size="Mood" Path="Gui/MagtayMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [B] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Nidya -->
+  <AffinityGuiElement Name="AffinityMappingNidya" >
+    <Title>%AffinityGameplayNidyaTitle</Title>
+    <Description>%AffinityGameplayNidyaDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/NidyaSmall.png" />
+      <Icon Size="Medium" Path="Gui/NidyaMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/NidyaLarge.png" />
+      <Icon Size="Mood" Path="Gui/NidyaMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [E] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+
+  <!-- Urces -->
+  <AffinityGuiElement Name="AffinityMappingUrces" >
+    <Title>%AffinityGameplayUrcesTitle</Title>
+    <Description>%AffinityGameplayUrcesDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/UrcesSmall.png" />
+      <Icon Size="Medium" Path="Gui/UrcesMedium.png" />
+      <Icon Size="MediumInverted" Path="Bitmaps/Dynamic/Affinities/MediumInverted/AffinityHarmonyMediumInverted" />
+      <Icon Size="Large" Path="Gui/UrcesLarge.png" />
+      <Icon Size="Mood" Path="Gui/UrcesMood.png" />
+    </Icons>
+    <SymbolString></SymbolString><!-- [F] -->
+    <Color Red="255" Green="255" Blue="255" Alpha="255" />
+  </AffinityGuiElement>
+</Datatable>

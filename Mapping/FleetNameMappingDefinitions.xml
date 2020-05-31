@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../Schemas/FleetNameMappingDefinition.xsd" >
+  <!-- I think this determines what type of ships they can build. Not including it has no serious consequences from what I can tell -->
+  <!-- Bos -->
+  <FleetNameMappingDefinition Name="AffinityMappingBos" >
+    <FleetNameTitle LocalizationKey="%MinorFactionBosTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Ceratan -->
+  <FleetNameMappingDefinition Name="AffinityMappingCeratan" >
+    <FleetNameTitle LocalizationKey="%MinorFactionCeratanTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Delvers -->
+  <FleetNameMappingDefinition Name="AffinityMappingDelvers" >
+    <FleetNameTitle LocalizationKey="%MinorFactionDelversTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+  
+    <!-- Dorgeshi -->
+  <FleetNameMappingDefinition Name="AffinityMappingDorgeshi" >
+    <FleetNameTitle LocalizationKey="%MinorFactionDorgeshiTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Erycis -->
+  <FleetNameMappingDefinition Name="AffinityMappingErycis" >
+    <FleetNameTitle LocalizationKey="%MinorFactionErycisTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Eyeless Ones -->
+  <FleetNameMappingDefinition Name="AffinityMappingEyeless" >
+    <FleetNameTitle LocalizationKey="%MinorFactionEyelessTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Fomorian -->
+  <FleetNameMappingDefinition Name="AffinityMappingFomorian" >
+    <FleetNameTitle LocalizationKey="%MinorFactionFomorianTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Gauran -->
+  <FleetNameMappingDefinition Name="AffinityMappingGauran" >
+    <FleetNameTitle LocalizationKey="%MinorFactionGauranTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Geldirus -->
+  <FleetNameMappingDefinition Name="AffinityMappingGeldirus" >
+    <FleetNameTitle LocalizationKey="%MinorFactionGeldirusTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Haunts -->
+  <FleetNameMappingDefinition Name="AffinityMappingHaunts" >
+    <FleetNameTitle LocalizationKey="%MinorFactionHauntsTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Hurnas -->
+  <FleetNameMappingDefinition Name="AffinityMappingHurnas" >
+    <FleetNameTitle LocalizationKey="%MinorFactionHurnasTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Jotus -->
+  <FleetNameMappingDefinition Name="AffinityMappingJotus" >
+    <FleetNameTitle LocalizationKey="%MinorFactionJotusTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Kazanji -->
+  <FleetNameMappingDefinition Name="AffinityMappingKazanji" >
+    <FleetNameTitle LocalizationKey="%MinorFactionKazanjiTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Magtay -->
+  <FleetNameMappingDefinition Name="AffinityMappingMagtay" >
+    <FleetNameTitle LocalizationKey="%MinorFactionMagtayTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Nidya -->
+  <FleetNameMappingDefinition Name="AffinityMappingNidya" >
+    <FleetNameTitle LocalizationKey="%MinorFactionNidyaTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+
+  <!-- Urces -->
+  <FleetNameMappingDefinition Name="AffinityMappingUrces" >
+    <FleetNameTitle LocalizationKey="%MinorFactionUrcesTitle" >
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor00" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor01" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor02" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor03" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor04" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor05" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor06" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor07" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor08" />
+      <FleetNameAdjective LocalizationKey="%FleetNameAdjectiveMinor09" />
+    </FleetNameTitle>
+  </FleetNameMappingDefinition>
+</Datatable>

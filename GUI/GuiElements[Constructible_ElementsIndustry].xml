@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="../Schemas/Amplitude.Unity.Gui.GuiElement.xsd">
+  <ExtendedGuiElement Name="StarSystemImprovementCloneFomorianPopulation">
+    <Title>%StarSystemImprovementCloneFomorianPopulationTitle</Title>
+    <Description>%AffinityFomorianDescription</Description>
+    <Icons>
+      <Icon Size="Small" Path="Gui/FomorianBuildSmall" /><!-- 96x48 -->
+      <Icon Size="Large" Path="Gui/FomorianBuildLarge" /> <!-- 540x270 -->
+    </Icons>
+    <TooltipElement>
+      <EffectOverride>%StarSystemImprovementCloneFomorianPopulationTooltipEffect</EffectOverride>
+    </TooltipElement>
+  </ExtendedGuiElement>
+</Datatable>

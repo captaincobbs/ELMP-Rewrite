@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datatable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:noNamespaceSchemaLocation="Documentation/Schemas/Amplitude.Unity.Runtime.RuntimeModule.xsd">
+  <RuntimeModule Name="ELMP" Type="Extension" Version="0">
+    <Title>Endless Legend Minor Populations</Title>
+    <Description>Testing Branch</Description>
+    <Author>Captain Cobbs</Author>
+    <Homepage></Homepage>
+    <PreviewImageFile>ModIcon.png</PreviewImageFile> <!-- 430x430 png -->
+    <ReleaseNotes>Release</ReleaseNotes>
+    <Tags>MinorFactions,Other,Art,Gameplay</Tags>
+    <Plugins>
+      
+      
+      <LocalizationPlugin DefaultLanguage="English" >
+        <Directory>Localization</Directory>
+      </LocalizationPlugin>
+    </Plugins>
+	</RuntimeModule>
+</Datatable>
